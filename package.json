@@ -1,5 +1,5 @@
 {
-  "name": "@dhis2/cli-utils-bundler",
+  "name": "d2-utils-bundler",
   "bin": {
     "d2-utils-bundler": "./bin/d2-utils-bundler"
   },
